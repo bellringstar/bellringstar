@@ -1,4 +1,4 @@
-# 안녕하세요, 저는 [Your Name]입니다! 👋
+# 안녕하세요, 저는 [bell]입니다! 👋
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
