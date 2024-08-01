@@ -111,7 +111,7 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot와 JPA를 이용한 RESTful API 개발](https://yourblog.com/spring-boot-jpa-restful-api)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
