@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요, 저는 세상의 흐름을 바꾸고 싶은 백엔드 개발자 김현종입니다 👋</h1>
+<h1 align="center">안녕하세요, 저는 세상의 흐름을 바꾸고싶은 백엔드 개발자 김현종입니다 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
@@ -102,8 +102,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellringstar&layout=compact&theme=tokyonight" alt="Top Langs" height="165">
 </p>
 
-## 🏆 Projects
+## 📈 Coding Activity
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellringstar&theme=tokyonight" alt="김현종's contribution streak" height="165">
+</p>
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Spring Boot와 JPA를 이용한 RESTful API 개발](https://yourblog.com/spring-boot-jpa-restful-api)
+<!-- BLOG-POST-LIST:END -->
+
+## 🚀 Projects
 <p align="center">
 <a href="https://github.com/bellringstar/Matzip-Curator-Server">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellringstar&repo=Matzip-Curator-Server&theme=tokyonight" alt="Matzip-Curator-Server" height="120">
