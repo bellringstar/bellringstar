@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요, 저는 김현종입니다 👋</h1>
+<h1 align="center">안녕하세요, 저는 세상의 흐름을 바꾸고 싶은 백엔드 개발자 김현종입니다 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
