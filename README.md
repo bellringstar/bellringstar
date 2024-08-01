@@ -42,8 +42,8 @@
   <img src="https://img.shields.io/badge/MySQL-★★★☆☆-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-★★☆☆☆-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-★★☆☆☆-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-★★★★☆-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-★★☆☆☆-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-★★☆☆☆-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center"><sub><sup>★☆☆☆☆ 기초 &nbsp; ★★☆☆☆ 초급 &nbsp; ★★★☆☆ 중급 &nbsp; ★★★★☆ 고급 &nbsp; ★★★★★ 전문가</sup></sub></p>
