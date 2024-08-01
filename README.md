@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/GitHub-★★★★☆-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center"><small>★☆☆☆☆ 기초 &nbsp; ★★☆☆☆ 초급 &nbsp; ★★★☆☆ 중급 &nbsp; ★★★★☆ 고급 &nbsp; ★★★★★ 전문가</small></p>
+<p align="center"><tiny>★☆☆☆☆ 기초 &nbsp; ★★☆☆☆ 초급 &nbsp; ★★★☆☆ 중급 &nbsp; ★★★★☆ 고급 &nbsp; ★★★★★ 전문가</tiny></p>
 
 <details>
 <summary><b>기술 스택 상세 설명</b></summary>
@@ -121,4 +121,4 @@
 <a href="https://instagram.com/YourInstagramUsername"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<p align="center">⭐️ From [bellringstar](https://github.com/bellringstar)</p>
+<p align="center">⭐️ From [[bellringstar]](https://github.com/bellringstar)</p>
