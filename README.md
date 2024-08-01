@@ -15,9 +15,9 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td valign="top" width="60%">
       <ul>
         <li>🔭 현재 <strong>우아한 테크 캠프</strong>에서 학습 중</li>
         <li>🌱 <strong>JAVA, SPRING, JPA, OOP, DDD</strong>에 대해 깊이 있게 공부 중</li>
@@ -27,18 +27,14 @@
         <li>⚡ 개발을 통해 <strong>불편함을 해소</strong>하고 싶습니다</li>
       </ul>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+    <td valign="top" width="40%">
+      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
 
 ## 🛠️ Skills
 
-### 숙련도 설명
-★☆☆☆☆ 기초 &nbsp; ★★☆☆☆ 초급 &nbsp; ★★★☆☆ 중급 &nbsp; ★★★★☆ 고급 &nbsp; ★★★★★ 전문가
-
-### 기술 스택
 <p align="center">
   <img src="https://img.shields.io/badge/Java-★★★☆☆-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-★★★☆☆-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -46,9 +42,11 @@
   <img src="https://img.shields.io/badge/MySQL-★★★☆☆-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-★★☆☆☆-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-★★☆☆☆-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-★★☆☆☆-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-★★☆☆☆-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-★★★★☆-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+<p align="center"><small>★☆☆☆☆ 기초 &nbsp; ★★☆☆☆ 초급 &nbsp; ★★★☆☆ 중급 &nbsp; ★★★★☆ 고급 &nbsp; ★★★★★ 전문가</small></p>
 
 <details>
 <summary><b>기술 스택 상세 설명</b></summary>
