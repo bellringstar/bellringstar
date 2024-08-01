@@ -121,4 +121,4 @@
 <a href="https://instagram.com/YourInstagramUsername"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<p align="center">⭐️ From [[bellringstar]](https://github.com/bellringstar)</p>
+<p align="center">⭐️ From [bellringstar](https://github.com/bellringstar)</p>
