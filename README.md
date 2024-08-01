@@ -1,20 +1,19 @@
-# 안녕하세요, 저는 [bell]입니다! 👋
+# 안녕하세요, 저는 김현종입니다! 👋
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## 🚀 About Me
-저는 열정적인 풀스택 개발자로, 혁신적인 솔루션을 만드는 것을 좋아합니다. 새로운 기술을 배우고 도전적인 프로젝트에 참여하는 것을 즐깁니다.
+불편함을 해소하고 싶어하는 백엔드 개발자입니다. 새로운 기술을 배우고 어쨰서 그런 선택인지를 중시합니다. 도전적인 프로젝트에 참여하는 것을 즐깁니다.
 
 - 🔭 현재 [우아한 테크 캠프]에서 학습하고 있습니다.
-- 🌱 지금은 [JAVA, SPRING, OOP, DDD]에 대해 배우고 있어요
-- 👯 [Collaboration Interest]에 관한 협업에 관심이 있습니다
-- 💬 [Your Expertise]에 대해 물어보세요
+- 🌱 지금은 [JAVA, SPRING, JPA, OOP, DDD]에 대해 배우고 있어요
+- 👯 [코드리뷰]에 관한 협업에 관심이 있습니다
+- 💬 [JAVA]에 대해 물어보세요
 - 📫 연락방법: [starringbell@gmail.com]
-- ⚡ 재미있는 사실: [Fun Fact About You]
+- ⚡ 재미있는 사실: [세상은 아름답다]
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
@@ -24,20 +23,23 @@
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Your GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=buefy&hide_border=true" alt="Your most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bellringstar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Your GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellringstar&layout=compact&theme=buefy&hide_border=true" alt="Your most used languages" />
 | ------------- | ------------- |
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bellringstar&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/YourGitHubUsername/ProjectName">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=ProjectName&theme=buefy" />
+<a href="https://github.com/bellringstar/Matzip-Curator-Server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bellringstar&repo=Matzip-Curator-Server&theme=buefy" />
 </a>
-<a href="https://github.com/YourGitHubUsername/ProjectName">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=ProjectName&theme=buefy" />
+<a href="https://github.com/bellringstar/keepham">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bellringstar&repo=keepham&theme=buefy" />
+</a>
+<a href="https://github.com/bellringstar/keepham-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bellringstar&repo=keepham-api&theme=buefy" />
 </a>
 
 ## 📫 How to reach me:
@@ -55,4 +57,4 @@
 - [Yet Another Blog Post Title](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
 
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [bellringstar](https://github.com/bellringstar)
