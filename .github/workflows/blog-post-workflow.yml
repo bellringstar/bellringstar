@@ -9,22 +9,28 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install feedparser
-      - name: Update README
-        run: |
-          python .github/scripts/update_readme.py
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update README with latest blog posts"
-          git push
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.PAT }}
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser
+    - name: Update README
+      run: |
+        python .github/scripts/update_readme.py
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update README with latest blog posts"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.PAT }}
+        branch: ${{ github.ref }}
