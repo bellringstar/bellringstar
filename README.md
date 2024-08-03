@@ -111,6 +111,7 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [@Transactional(readOnly = true)를 항상 써야할까?](https://bellringstar.tistory.com/4) - Sat, 3 Aug
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
