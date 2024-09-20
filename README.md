@@ -111,6 +111,7 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [@WebServlet: 내가 무지성으로 쓰고 있던 어노테이션](https://bellringstar.tistory.com/5) - Fri, 20 Se
 - [@Transactional(readOnly = true)를 항상 써야할까?](https://bellringstar.tistory.com/4) - Sat, 3 Aug
 <!-- BLOG-POST-LIST:END -->
 
