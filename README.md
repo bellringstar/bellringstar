@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode 88 - Merge Sorted Array](https://bellringstar.tistory.com/8) - Thu, 26 Se
-- [Spring과 Jackson: JSON 역직렬화의 내부 동작 원리](https://bellringstar.tistory.com/7) - Wed, 25 Se
-- [Spring과 Jackson: JSON 직렬화의 내부 동작 원리](https://bellringstar.tistory.com/6) - Fri, 20 Se
+- [Keepham - 리팩토링 시작](https://bellringstar.tistory.com/11) - Fri, 27 Se
+- [programmers 12981 - 영어 끝말잇기](https://bellringstar.tistory.com/10) - Fri, 27 Se
+- [LeetCode 27 - Remove Element](https://bellringstar.tistory.com/9) - Fri, 27 Se
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
