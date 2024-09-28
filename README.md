@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Keepham - 리팩토링 시작](https://bellringstar.tistory.com/11) - Fri, 27 Se
-- [programmers 12981 - 영어 끝말잇기](https://bellringstar.tistory.com/10) - Fri, 27 Se
-- [LeetCode 27 - Remove Element](https://bellringstar.tistory.com/9) - Fri, 27 Se
+- [채팅방 API 서버 - 엔티티 개선(2)](https://bellringstar.tistory.com/16) - Sat, 28 Se
+- [채팅방 API 서버 - 엔티티 개선(1)](https://bellringstar.tistory.com/15) - Sat, 28 Se
+- [Programmers 42861 - 섬 연결하기](https://bellringstar.tistory.com/14) - Sat, 28 Se
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
