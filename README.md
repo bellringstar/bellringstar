@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programmers 86971 - 전력망을 둘로 나누기](https://bellringstar.tistory.com/32) - Mon, 30 Se
+- [Programmers 67259 - 경주로 건설](https://bellringstar.tistory.com/31) - Mon, 30 Se
 - [채팅방 API 서버 - ChatRoomService 개선(1)](https://bellringstar.tistory.com/30) - Mon, 30 Se
-- [LeetCode 150 - Candy](https://bellringstar.tistory.com/29) - Mon, 30 Se
-- [LeetCode 134 - Gas Station](https://bellringstar.tistory.com/28) - Sun, 29 Se
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
