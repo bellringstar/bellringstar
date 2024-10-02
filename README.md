@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programmers 12952 - N-Queen](https://bellringstar.tistory.com/34) - Tue, 1 Oct
+- [Programmers 87946 - 피로도](https://bellringstar.tistory.com/33) - Tue, 1 Oct
 - [Programmers 86971 - 전력망을 둘로 나누기](https://bellringstar.tistory.com/32) - Mon, 30 Se
-- [Programmers 67259 - 경주로 건설](https://bellringstar.tistory.com/31) - Mon, 30 Se
-- [채팅방 API 서버 - ChatRoomService 개선(1)](https://bellringstar.tistory.com/30) - Mon, 30 Se
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
