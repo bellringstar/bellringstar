@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Programmers 12952 - N-Queen](https://bellringstar.tistory.com/34) - Tue, 1 Oct
-- [Programmers 87946 - 피로도](https://bellringstar.tistory.com/33) - Tue, 1 Oct
-- [Programmers 86971 - 전력망을 둘로 나누기](https://bellringstar.tistory.com/32) - Mon, 30 Se
+- [LeetCode 151 - Reverse Words in a String](https://bellringstar.tistory.com/39) - Thu, 3 Oct
+- [LeetCode 12 - Integer to Roman](https://bellringstar.tistory.com/38) - Thu, 3 Oct
+- [LeetCode 13 - Roman to Integer](https://bellringstar.tistory.com/37) - Thu, 3 Oct
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
