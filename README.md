@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 3190- 뱀](https://bellringstar.tistory.com/50) - Tue, 8 Oct
+- [LeetCode 30 - Substring with Concatenation of All Words](https://bellringstar.tistory.com/49) - Tue, 8 Oct
 - [BOJ 12100 - 2048](https://bellringstar.tistory.com/48) - Mon, 7 Oct
-- [채팅방 API 서버 - ChatRoomService 개선(2)](https://bellringstar.tistory.com/47) - Mon, 7 Oct
-- [LeetCode 3 - Longest Substring Without Repeating Characters](https://bellringstar.tistory.com/46) - Mon, 7 Oct
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
