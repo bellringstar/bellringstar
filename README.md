@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BOJ 3190- 뱀](https://bellringstar.tistory.com/50) - Tue, 8 Oct
-- [LeetCode 30 - Substring with Concatenation of All Words](https://bellringstar.tistory.com/49) - Tue, 8 Oct
-- [BOJ 12100 - 2048](https://bellringstar.tistory.com/48) - Mon, 7 Oct
+- [BOJ 14501 - 퇴사](https://bellringstar.tistory.com/54) - Wed, 9 Oct
+- [BOJ 14500 - 테트로미노](https://bellringstar.tistory.com/53) - Wed, 9 Oct
+- [BOJ 14499 - 주사위 굴리기](https://bellringstar.tistory.com/52) - Wed, 9 Oct
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
