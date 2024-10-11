@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BOJ 14501 - 퇴사](https://bellringstar.tistory.com/54) - Wed, 9 Oct
-- [BOJ 14500 - 테트로미노](https://bellringstar.tistory.com/53) - Wed, 9 Oct
-- [BOJ 14499 - 주사위 굴리기](https://bellringstar.tistory.com/52) - Wed, 9 Oct
+- [BOJ 14889 - 스타트와 링크](https://bellringstar.tistory.com/58) - Fri, 11 Oc
+- [BOJ 14888 - 연산자 끼워넣기](https://bellringstar.tistory.com/57) - Thu, 10 Oc
+- [BOJ 14503 - 로봇 청소기](https://bellringstar.tistory.com/56) - Thu, 10 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
