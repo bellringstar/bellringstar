@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 15684 - 사다리 조작](https://bellringstar.tistory.com/59) - Fri, 11 Oc
 - [BOJ 14889 - 스타트와 링크](https://bellringstar.tistory.com/58) - Fri, 11 Oc
 - [BOJ 14888 - 연산자 끼워넣기](https://bellringstar.tistory.com/57) - Thu, 10 Oc
-- [BOJ 14503 - 로봇 청소기](https://bellringstar.tistory.com/56) - Thu, 10 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
