@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BOJ 15684 - 사다리 조작](https://bellringstar.tistory.com/59) - Fri, 11 Oc
-- [BOJ 14889 - 스타트와 링크](https://bellringstar.tistory.com/58) - Fri, 11 Oc
-- [BOJ 14888 - 연산자 끼워넣기](https://bellringstar.tistory.com/57) - Thu, 10 Oc
+- [LeetCode 199 - Binary Tree Right Side View](https://bellringstar.tistory.com/63) - Tue, 15 Oc
+- [LeetCode 530 - Minimum Absolute Difference in BST](https://bellringstar.tistory.com/62) - Tue, 15 Oc
+- [LeetCode 228 - Summary Ranges](https://bellringstar.tistory.com/61) - Mon, 14 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
