@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode 108 - Convert Sorted Array to Binary Search Tree](https://bellringstar.tistory.com/68) - Thu, 17 Oc
-- [LeetCode 53 - Maximum Subarray](https://bellringstar.tistory.com/67) - Wed, 16 Oc
-- [LeetCode 35 - Search Insert Position](https://bellringstar.tistory.com/66) - Wed, 16 Oc
+- [LeetCode 71 - Simplify Path](https://bellringstar.tistory.com/71) - Fri, 18 Oc
+- [LeetCode 120 - Triangle](https://bellringstar.tistory.com/70) - Fri, 18 Oc
+- [LeetCode 54 - Spiral Matrix](https://bellringstar.tistory.com/69) - Thu, 17 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
