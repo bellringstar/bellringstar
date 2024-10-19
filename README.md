@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 11053 - &nbsp;가장 긴 증가하는 부분 수열](https://bellringstar.tistory.com/73) - Fri, 18 Oc
+- [LeetCode 205 - &nbsp;Isomorphic Strings](https://bellringstar.tistory.com/72) - Fri, 18 Oc
 - [LeetCode 71 - Simplify Path](https://bellringstar.tistory.com/71) - Fri, 18 Oc
-- [LeetCode 120 - Triangle](https://bellringstar.tistory.com/70) - Fri, 18 Oc
-- [LeetCode 54 - Spiral Matrix](https://bellringstar.tistory.com/69) - Thu, 17 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
