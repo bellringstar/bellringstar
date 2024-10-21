@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programmers 60062 - 외벽점검](https://bellringstar.tistory.com/74) - Sun, 20 Oc
 - [LeetCode 11053 - &nbsp;가장 긴 증가하는 부분 수열](https://bellringstar.tistory.com/73) - Fri, 18 Oc
 - [LeetCode 205 - &nbsp;Isomorphic Strings](https://bellringstar.tistory.com/72) - Fri, 18 Oc
-- [LeetCode 71 - Simplify Path](https://bellringstar.tistory.com/71) - Fri, 18 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
