@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 637 - &nbsp;Average of Levels in Binary Tree](https://bellringstar.tistory.com/76) - Mon, 21 Oc
+- [LeetCode 230 - &nbsp;Kth Smallest Element in a BST](https://bellringstar.tistory.com/75) - Mon, 21 Oc
 - [Programmers 60062 - 외벽점검](https://bellringstar.tistory.com/74) - Sun, 20 Oc
-- [LeetCode 11053 - &nbsp;가장 긴 증가하는 부분 수열](https://bellringstar.tistory.com/73) - Fri, 18 Oc
-- [LeetCode 205 - &nbsp;Isomorphic Strings](https://bellringstar.tistory.com/72) - Fri, 18 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
