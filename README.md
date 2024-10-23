@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode 637 - &nbsp;Average of Levels in Binary Tree](https://bellringstar.tistory.com/76) - Mon, 21 Oc
-- [LeetCode 230 - &nbsp;Kth Smallest Element in a BST](https://bellringstar.tistory.com/75) - Mon, 21 Oc
-- [Programmers 60062 - 외벽점검](https://bellringstar.tistory.com/74) - Sun, 20 Oc
+- [LeetCode 130 - Surrounded Regions](https://bellringstar.tistory.com/79) - Tue, 22 Oc
+- [LeetCode 433 - Minimum Genetic Mutation](https://bellringstar.tistory.com/78) - Tue, 22 Oc
+- [LeetCode 2 - Add Two Numbers](https://bellringstar.tistory.com/77) - Tue, 22 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
