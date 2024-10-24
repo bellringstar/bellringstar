@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode 130 - Surrounded Regions](https://bellringstar.tistory.com/79) - Tue, 22 Oc
-- [LeetCode 433 - Minimum Genetic Mutation](https://bellringstar.tistory.com/78) - Tue, 22 Oc
-- [LeetCode 2 - Add Two Numbers](https://bellringstar.tistory.com/77) - Tue, 22 Oc
+- [Programmers 42577 - 전화번호 목록](https://bellringstar.tistory.com/83) - Thu, 24 Oc
+- [Programmers 62050 - 지형 이동](https://bellringstar.tistory.com/82) - Wed, 23 Oc
+- [Programmers 64065 - 튜플](https://bellringstar.tistory.com/81) - Wed, 23 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
