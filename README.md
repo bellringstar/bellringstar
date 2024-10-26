@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Programmers 132265 - 롤케이크 자르지](https://bellringstar.tistory.com/84) - Thu, 24 Oc
-- [Programmers 42577 - 전화번호 목록](https://bellringstar.tistory.com/83) - Thu, 24 Oc
-- [Programmers 62050 - 지형 이동](https://bellringstar.tistory.com/82) - Wed, 23 Oc
+- [LeetCode 66 - Plus One](https://bellringstar.tistory.com/87) - Fri, 25 Oc
+- [LeetCode 198 - House Robber](https://bellringstar.tistory.com/86) - Fri, 25 Oc
+- [BOJ 1655 - 가운데를 말해요](https://bellringstar.tistory.com/85) - Fri, 25 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
