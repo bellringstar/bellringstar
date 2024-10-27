@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode 66 - Plus One](https://bellringstar.tistory.com/87) - Fri, 25 Oc
-- [LeetCode 198 - House Robber](https://bellringstar.tistory.com/86) - Fri, 25 Oc
-- [BOJ 1655 - 가운데를 말해요](https://bellringstar.tistory.com/85) - Fri, 25 Oc
+- [BOJ 15989 - 1,2,3 더하기 4](https://bellringstar.tistory.com/90) - Sat, 26 Oc
+- [BOJ 1528 - 금민수의 합](https://bellringstar.tistory.com/89) - Sat, 26 Oc
+- [BOJ 2295 - 세 수의 합](https://bellringstar.tistory.com/88) - Sat, 26 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
