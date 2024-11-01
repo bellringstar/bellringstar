@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Programmers 12905 - 가장 큰 정사각형 찾기](https://bellringstar.tistory.com/93) - Wed, 30 Oc
-- [Programmers 42897 - 도둑질](https://bellringstar.tistory.com/92) - Wed, 30 Oc
-- [LeetCode 74 - Search a 2D Matrix](https://bellringstar.tistory.com/91) - Wed, 30 Oc
+- [BOJ 15591 - MooTube (Silver)](https://bellringstar.tistory.com/96) - Thu, 31 Oc
+- [BOJ 10830 - 행렬의 제곱](https://bellringstar.tistory.com/95) - Thu, 31 Oc
+- [BOJ 12865 - 평범한 배낭](https://bellringstar.tistory.com/94) - Thu, 31 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
