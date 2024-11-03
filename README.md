@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 322 - Coin Change](https://bellringstar.tistory.com/98) - Sun, 3 Nov
+- [LeetCode 155 - Min Stack](https://bellringstar.tistory.com/97) - Sat, 2 Nov
 - [BOJ 15591 - MooTube (Silver)](https://bellringstar.tistory.com/96) - Thu, 31 Oc
-- [BOJ 10830 - 행렬의 제곱](https://bellringstar.tistory.com/95) - Thu, 31 Oc
-- [BOJ 12865 - 평범한 배낭](https://bellringstar.tistory.com/94) - Thu, 31 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
