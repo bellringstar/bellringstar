@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 2933 - 미네랄](https://bellringstar.tistory.com/99) - Tue, 5 Nov
 - [LeetCode 322 - Coin Change](https://bellringstar.tistory.com/98) - Sun, 3 Nov
 - [LeetCode 155 - Min Stack](https://bellringstar.tistory.com/97) - Sat, 2 Nov
-- [BOJ 15591 - MooTube (Silver)](https://bellringstar.tistory.com/96) - Thu, 31 Oc
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
