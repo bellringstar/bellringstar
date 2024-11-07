@@ -111,9 +111,9 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 10021 - Watering the Fields](https://bellringstar.tistory.com/101) - Wed, 6 Nov
 - [BOJ 2292 - 벌집](https://bellringstar.tistory.com/100) - Wed, 6 Nov
 - [BOJ 2933 - 미네랄](https://bellringstar.tistory.com/99) - Tue, 5 Nov
-- [LeetCode 322 - Coin Change](https://bellringstar.tistory.com/98) - Sun, 3 Nov
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Projects
