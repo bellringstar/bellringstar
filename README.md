@@ -19,7 +19,6 @@
   <tr>
     <td valign="top" width="60%">
       <ul>
-        <li>🔭 현재 <strong>우아한 테크 캠프</strong>에서 학습 중</li>
         <li>🌱 <strong>JAVA, SPRING, JPA, OOP, DDD</strong>에 대해 깊이 있게 공부 중</li>
         <li>👯 <strong>코드 리뷰</strong> 문화에 관심이 많음</li>
         <li>💬 <strong>JAVA</strong>에 대해 물어보세요</li>
