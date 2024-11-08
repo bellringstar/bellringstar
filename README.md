@@ -118,8 +118,8 @@
 
 ## 🚀 Projects
 <p align="center">
-<a href="https://github.com/bellringstar/Matzip-Curator-Server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellringstar&repo=Matzip-Curator-Server&theme=tokyonight" alt="Matzip-Curator-Server" height="120">
+<a href="https://github.com/Team-twodari/festival-people">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-twodari&repo=festival-people&theme=tokyonight" alt="festival-people" height="120">
 </a>
 <a href="https://github.com/bellringstar/keepham">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellringstar&repo=keepham&theme=tokyonight" alt="keepham" height="120">
